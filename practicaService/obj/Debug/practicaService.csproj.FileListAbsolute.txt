@@ -1,0 +1,7 @@
+C:\Users\marti\Desktop\MAXI\Cursos\Practicas\practicaService\practicaService\bin\Debug\practicaService.exe.config
+C:\Users\marti\Desktop\MAXI\Cursos\Practicas\practicaService\practicaService\bin\Debug\practicaService.exe
+C:\Users\marti\Desktop\MAXI\Cursos\Practicas\practicaService\practicaService\bin\Debug\practicaService.pdb
+C:\Users\marti\Desktop\MAXI\Cursos\Practicas\practicaService\practicaService\obj\Debug\practicaService.csproj.AssemblyReference.cache
+C:\Users\marti\Desktop\MAXI\Cursos\Practicas\practicaService\practicaService\obj\Debug\practicaService.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\MAXI\Cursos\Practicas\practicaService\practicaService\obj\Debug\practicaService.exe
+C:\Users\marti\Desktop\MAXI\Cursos\Practicas\practicaService\practicaService\obj\Debug\practicaService.pdb

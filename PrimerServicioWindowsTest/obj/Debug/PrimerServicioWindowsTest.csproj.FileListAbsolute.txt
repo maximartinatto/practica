@@ -1,0 +1,14 @@
+C:\Users\marti\Desktop\MAXI\Cursos\Practicas\practicaService\PrimerServicioWindowsTest\bin\Debug\PrimerServicioWindowsTest.exe.config
+C:\Users\marti\Desktop\MAXI\Cursos\Practicas\practicaService\PrimerServicioWindowsTest\bin\Debug\PrimerServicioWindowsTest.exe
+C:\Users\marti\Desktop\MAXI\Cursos\Practicas\practicaService\PrimerServicioWindowsTest\bin\Debug\PrimerServicioWindowsTest.pdb
+C:\Users\marti\Desktop\MAXI\Cursos\Practicas\practicaService\PrimerServicioWindowsTest\bin\Debug\practicaService.exe
+C:\Users\marti\Desktop\MAXI\Cursos\Practicas\practicaService\PrimerServicioWindowsTest\bin\Debug\practicaService.pdb
+C:\Users\marti\Desktop\MAXI\Cursos\Practicas\practicaService\PrimerServicioWindowsTest\bin\Debug\practicaService.exe.config
+C:\Users\marti\Desktop\MAXI\Cursos\Practicas\practicaService\PrimerServicioWindowsTest\obj\Debug\PrimerServicioWindowsTest.csproj.AssemblyReference.cache
+C:\Users\marti\Desktop\MAXI\Cursos\Practicas\practicaService\PrimerServicioWindowsTest\obj\Debug\PrimerServicioWindowsTest.Form1.resources
+C:\Users\marti\Desktop\MAXI\Cursos\Practicas\practicaService\PrimerServicioWindowsTest\obj\Debug\PrimerServicioWindowsTest.Properties.Resources.resources
+C:\Users\marti\Desktop\MAXI\Cursos\Practicas\practicaService\PrimerServicioWindowsTest\obj\Debug\PrimerServicioWindowsTest.csproj.GenerateResource.cache
+C:\Users\marti\Desktop\MAXI\Cursos\Practicas\practicaService\PrimerServicioWindowsTest\obj\Debug\PrimerServicioWindowsTest.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\MAXI\Cursos\Practicas\practicaService\PrimerServicioWindowsTest\obj\Debug\PrimerServicioWindowsTest.csproj.CopyComplete
+C:\Users\marti\Desktop\MAXI\Cursos\Practicas\practicaService\PrimerServicioWindowsTest\obj\Debug\PrimerServicioWindowsTest.exe
+C:\Users\marti\Desktop\MAXI\Cursos\Practicas\practicaService\PrimerServicioWindowsTest\obj\Debug\PrimerServicioWindowsTest.pdb
